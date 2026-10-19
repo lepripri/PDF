@@ -1,0 +1,43 @@
+/* ====== 1. importation des polices d'écritures ====== */
+@font-face {
+  font-family: "keyboardCTRL";
+  src: url("https://lepripri.github.io/font/keyboard/212 Keyboard.otf") format("otf");
+}
+@font-face {
+  font-family: "keyboardFN";
+  src: url("https://lepripri.github.io/font/keyboard/212 Keyboard Functions.otf") format("otf");
+}
+@font-face {
+  font-family: "keyboard";
+  src: url("https://lepripri.github.io/font/keyboard/aaQwertz-Tasten.ttf") format("ttf");
+}
+@font-face {
+  font-family: "keyboard";
+  src: url("https://lepripri.github.io/font/keyboard/212 Keyboard.otf") format("otf");
+}
+@font-face {
+  font-family: "Handwriting";
+  src: url("https://lepripri.github.io/font/Handwritten/Handwriting/USPHandwriting-Condensed.otf") format("otf");
+}
+@font-face {
+  font-family: "marker.woff2";
+  src: url("https://lepripri.github.io/font/Handwritten/marker.woff2") format("woff2");
+}
+@font-face {
+  font-family: "arial";
+  src: local("Arial"), url("https://lepripri.github.io/font/sans-serif/Arial/ARIAL.TTF") format("ttf");
+}
+@font-face {
+  font-family: "arial-bold";
+  src: url("https://lepripri.github.io/font/sans-serif/Arial/ARIALBD.TTF") format("ttf");
+}
+@font-face {
+  font-family: "arial-italic";
+  src: url("https://lepripri.github.io/font/sans-serif/Arial/ARIALI.TTF") format("ttf");
+}
+@font-face {
+  font-family: "arial-bold-italic";
+  src: url("https://lepripri.github.io/font/sans-serif/Arial/ARIALBI.TTF") format("ttf");
+}
+
+/* ====== 2. style de l'UI ====== */
